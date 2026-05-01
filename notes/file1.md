@@ -1,6 +1,4 @@
-loops
 
-this is a test message 
 nodejs
 react 
 angular
