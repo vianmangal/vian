@@ -1,0 +1,4 @@
+globe 
+wordle
+flagle
+strands
